@@ -58,6 +58,10 @@
                                 </div>
                                 <div class="flex items-center justify-between">
                                     <span class="text-3xl font-bold text-gray-900 dark:text-white">Rp.849.999,-</span>
+                                   
+                                </div>
+                                <br>
+                                <div>
                                     <a href="#"
                                         class="text-white bg-emerald-500 hover:bg-emerald-600 focus:ring-4 focus:outline-none focus:ring-emerald-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-emerald-600 dark:hover:bg-emerald-700 dark:focus:ring-emerald-800">Beli
                                         Sekarang
@@ -108,6 +112,10 @@
                                 </div>
                                 <div class="flex items-center justify-between">
                                     <span class="text-3xl font-bold text-gray-900 dark:text-white">Rp.799.999,-</span>
+                                    
+                                </div>
+                                <br>
+                                <div>
                                     <a href="#"
                                         class="text-white bg-emerald-500 hover:bg-emerald-600 focus:ring-4 focus:outline-none focus:ring-emerald-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-emerald-600 dark:hover:bg-emerald-700 dark:focus:ring-emerald-800">Beli
                                         Sekarang
@@ -159,6 +167,10 @@
                                 </div>
                                 <div class="flex items-center justify-between">
                                     <span class="text-3xl font-bold text-gray-900 dark:text-white">Rp.449.999,-</span>
+                                    
+                                </div>
+                                <br>
+                                <div>
                                     <a href="#"
                                         class="text-white bg-emerald-500 hover:bg-emerald-600 focus:ring-4 focus:outline-none focus:ring-emerald-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-emerald-600 dark:hover:bg-emerald-700 dark:focus:ring-emerald-800">Beli
                                         Sekarang
